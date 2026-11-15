@@ -10,3 +10,6 @@ Welcome to my engineering repository for Week 1! This project covers fundamental
 - [x] Installed Git & VS Code
 - [x] Configured Git user identity (`user.name` & `user.email`)
 - [x] Created repository structure & `README.md`
+## Project Status
+- Initial Week 1 environment configured.
+- Practicing Git feature branch workflow and PR submission.
